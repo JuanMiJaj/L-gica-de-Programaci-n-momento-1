@@ -28,4 +28,4 @@ escribir "el precio subtotal de" + nombreProducto + "es:" + subtotal;
 escribir "Precio del IVA es:" + valorImpuesto;
 escribir "El valor Final del producto" + nombreProducto + "es:" + precioFinal;
 
-FinCosteoPrecios
+FinCosteoPrecios.
